@@ -1,3 +1,3 @@
 ### Benito's page
 
-![Image](http://www.hackthebox.eu/badge/image/317378)
+![Image of HTB Badge](http://www.hackthebox.eu/badge/image/317378)
